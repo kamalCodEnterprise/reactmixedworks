@@ -1,2 +1,2 @@
 # reactmixedworks
-react
+React.js
